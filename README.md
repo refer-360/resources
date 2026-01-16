@@ -14,8 +14,10 @@ This repository hosts the project page and resources for our accepted paper at *
 **Refer360 Dataset (Processed, 49.71 GB):**  
 https://bit.ly/refer360_dataset_processed
 
+<!--
 **Refer360 Dataset (Raw, 2572.36 GB):**  
 https://bit.ly/refer360_dataset_raw
+-->
 
 ---
 
